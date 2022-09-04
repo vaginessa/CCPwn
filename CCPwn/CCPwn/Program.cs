@@ -27,7 +27,7 @@
             }
             if (args.Length != 3)
             {
-                Console.WriteLine("Invalid amount of arguments <threads> <delay> <bin>");
+                Console.WriteLine("Invalid amount of arguments <threads> <delay> <bin_code>");
                 return;
             }
             MainAsync(args).Wait();
