@@ -13,7 +13,7 @@
 - In source code go to Extensions.cs and in CheckCard were it says `//ADD PROXY` add a usa proxy
 
 # Usage
-- (Linux) `screen dotnet PWMGen.dll 1000 3 <bin_code>` (No <> needed its just a place holder)
+- (Linux) `screen dotnet PWMGen.dll <threads> <delay> <bin>` (No <> needed its just a place holder)
 
 # FYI
 - Saves in Valid.txt
