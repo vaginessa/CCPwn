@@ -1,4 +1,4 @@
-# CC Checker + Gen
+# CCPwn
 - Lightweight
 - Stable
 - Linux and Windows support
