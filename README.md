@@ -1,4 +1,4 @@
-# CC Checker
+# CC Checker + Gen
 - Lightweight
 - Stable
 - Linux and Windows support
@@ -14,3 +14,6 @@
 
 # Usage
 - (Linux) `screen dotnet PWMGen.dll 1000 3 <bin_code>` (No <> needed its just a place holder)
+
+# FYI
+- Saves in Valid.txt
